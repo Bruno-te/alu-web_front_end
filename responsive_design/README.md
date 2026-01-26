@@ -1,0 +1,1 @@
+README file for responsive design
